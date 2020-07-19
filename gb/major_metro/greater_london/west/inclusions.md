@@ -1,0 +1,20 @@
+HA0 *-HA7 *
+HA8 5*-HA8 7*
+HA9 *
+NW2 3*-NW2 7*
+NW6 5*-NW6 7*
+NW9 7*-NW9 9*
+NW9 0*-NW9 1*
+NW10 *
+SW6 *
+SW13 *-SW14 *
+TW1 *-TW9 *
+TW10 *-TW14 *
+UB1 *-UB8 *
+UB9 6*
+UB10 *-UB11 *
+UB18 *
+W3 *-W7 *
+W12 *-W13 *
+W14 9*
+W14 0*

@@ -1,0 +1,42 @@
+EC1A *-EC1Y *
+EC2A *-EC2Y *
+EC3A *-EC3Y *
+EC4A *-EC4Y *
+N1 *
+N5 *
+N6 6*
+N7 *
+N19 *
+N1C *
+NW1W *
+NW1 * 
+NW3 *
+NW5 *
+NW6 1*-NW6 4*
+NW8 *
+NW26 *
+SE1 * 
+SE1P *
+SE5 *
+SE11 *
+SE15 *-SE17 *
+SE21 *-SE22 *
+SE24 *
+SE27 *
+SW1A *-SW1Y *
+SW2 *-SW5 *
+SW7 *
+SW8 1*-SW8 2*
+SW8 5*
+SW9 *
+SW10 *. 
+SW16 1*-SW16 2*
+SW95 *
+W1A *-W1W *
+W2 *
+W8 *-W9 *
+W10 *-W11 *
+W14 8*
+WC1A *-WC1X *
+WC2A *-WC2R *
+

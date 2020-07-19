@@ -1,0 +1,24 @@
+DA5 *-DA8 *
+DA14 *-DA18 *
+E1W *
+E1 *-E9 *
+E10 *-E18 *
+E20 *
+E77 *
+E98 *
+IG1 *-IG6 *
+IG8 *
+IG11 *
+N16 *
+RM1 *-RM3 *
+RM5 *-RM9 *
+RM10 *-RM14 *
+SE2 *-SE4 *
+SE6 *-SE9 *
+SE10 *
+SE12 *-SE14 *
+SE18 *
+SE23 *
+SE26 *
+SE28 *
+

@@ -1,0 +1,16 @@
+AB*
+DD*
+DG*
+EH*
+FK*
+G*
+KA1 *-KA9 *
+KA10 *-KA26 *
+KA29 *-KA30 *
+KY*
+ML*
+PA1 *-PA9 *
+PA10 *-PA19 *
+PH1 *-PH9 *
+PH10 *-PH18 *
+TD*

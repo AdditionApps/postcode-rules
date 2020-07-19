@@ -1,0 +1,15 @@
+B*
+CV1 *-CV8 *
+CV9 1*-CV9 2*
+CV10 *-CV12 *
+CV21 *-CV47 * 
+DE13 *-DE15 *
+DY*
+HR*
+ST*
+SY1 *-SY9 *
+SY10 *-SY14 * 
+TF*
+WR*
+WS*
+WV*

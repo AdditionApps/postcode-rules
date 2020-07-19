@@ -1,0 +1,7 @@
+HS*
+IV*
+KA27 *-KA28 *
+KW*
+PA20 *-PA80 *
+PH19*-PH50 *
+ZE*

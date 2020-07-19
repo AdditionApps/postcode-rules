@@ -1,0 +1,16 @@
+AB*
+DD*
+DG*
+EH*
+FK*
+G*
+HS*
+IV*
+KA*
+KW*
+KY*
+ML*
+PA*
+PH*
+TD*
+ZE*

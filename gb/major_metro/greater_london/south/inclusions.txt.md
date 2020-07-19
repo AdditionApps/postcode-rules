@@ -1,0 +1,22 @@
+BR1 *-BR7 *
+CR0 *
+CR2 *
+CR4 *-CR5 *
+CR7 *-CR9 *
+CR44 *
+CR90 *
+DA5 *-DA8 *
+DA14 *-DA18 *
+KT1 *-KT6 *
+KT9 *
+SE19 *-SE20 *
+SE25 *
+SM1 *-SM6 *
+SW8 3*-SW8 4*
+SW11 *-SW12 *
+SW15 *
+SW16 3*-SW16 6*
+SW16 9*
+SW17 *-SW20 *
+SW95 *
+TN16 2*-TN16 3*

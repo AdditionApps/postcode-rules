@@ -1,0 +1,25 @@
+BA*
+BH1 *-BH9 *
+BH10 *-BH22 *
+BH23 1*-BH23 6*
+BH23 9*
+BH24 2*
+BH26 *-BH31 * 
+BS*
+DT*
+EX*
+GL*
+PL*
+SN1 *-SN5 *
+SN6 6*-SN6 7*
+SN8 *-SN9 *
+SN10 *-SN26 *
+SN38 *
+SN99 *
+SP1 *-SP5 *
+SP7 *-SP9 *
+TA*
+TQ*
+TR*
+
+

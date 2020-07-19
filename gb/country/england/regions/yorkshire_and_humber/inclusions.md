@@ -1,0 +1,25 @@
+BD*
+DL6 *-DL9 *
+DL10 *-DL11 * 
+DN1 *-DN9 *
+DN10 *-DN14 *
+DN55 *
+HD*
+HG*
+HU*
+HX*
+LS*
+NR*
+OL14 *
+S1 *-S9 *
+S10 *-S17 *
+S20 *
+S25 *-S26 *
+S35 *-S36 *
+S60 *-S75 *
+S94 *-S99 *
+TS9 *
+TS13 5*
+WF*
+YO*
+

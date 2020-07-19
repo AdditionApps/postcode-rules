@@ -1,0 +1,26 @@
+AB*
+DD*
+DG*
+EH*
+FK*
+G*
+IV1 *-IV9 *
+IV10 *-IV40 *
+IV52 *-IV54 *
+IV63 *
+IV99 *
+KA1 *-KA9 *
+KA10 *-KA26 *
+KA29 *-KA30 *
+KW1 *-KW9 *
+KW10 *-KW14 *
+KY*
+ML*
+PA1 *-PA9 *
+PA10 *-PA19 *
+PA21 *-PA38 *
+PA80 *
+PH1 *-PH9 *
+PH10 *-PH41 *
+PH49 *-PH50 *
+TD*

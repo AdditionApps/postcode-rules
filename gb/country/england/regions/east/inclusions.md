@@ -1,0 +1,29 @@
+AL*
+CB*
+CM*
+CO*
+EN6 *-EN9 *
+EN10 *-EN11 *
+HP1 *-HP4 * 
+HP23 *
+IG7 *
+IG9 *
+IG10 *
+IP*
+LU*
+MK40 *-MK45 *
+NR*
+PE1 *-PE5 *
+PE6 0*_PE6 7*
+PE7 *
+PE13 *-PE19 *
+PE26 *-PE38 *
+PE99 *
+RM4 *
+RM15 *-RM20 *
+SG*
+SS*
+WD*
+
+
+

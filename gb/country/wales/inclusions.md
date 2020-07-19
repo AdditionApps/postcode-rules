@@ -1,0 +1,13 @@
+CF*
+CH4 0*
+CH5 *-CH8 *
+HR6 8*-HR6 9*
+LD*
+LL*
+NP*
+SA*
+SY10 0*
+SY15 *-SY25 *
+
+
+

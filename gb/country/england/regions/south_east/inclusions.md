@@ -1,0 +1,39 @@
+BH23 7*-BH23 8*
+BH24 1*
+BH24 3*-BH24 4*
+BH24 9*
+BH25 *
+BN*
+BR8 *
+CR3 *
+CR6 *
+CT*
+DA1 *-DA4 *
+DA9 *
+DA10 *-DA13 *
+GU*
+HP5 *-HP9 *
+HP10 *-HP22 *
+HP27 *
+KT7 *-KT8 *
+KT!0 *-KT24 *
+LU7 0*
+ME*
+MK1 *-MK9 *
+MK10 *-MK19 *
+MK46 *
+MK77 *
+OX*
+PO*
+RG*
+RH*
+SL*
+SM7 *
+SN6 8*
+SN7 *
+SO*
+SP6 *
+SP10 *-SP11 *
+TN*
+TW15 *-TW20 *
+UB9 4*-UB9 5*

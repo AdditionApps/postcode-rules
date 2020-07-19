@@ -1,0 +1,12 @@
+DH*
+DL1 *-DL5 *
+DL12 *-DL17 *
+DL98 *
+NE*
+SR*
+ST7 2*-ST7 3*
+TS1 *-TS8 *
+TS10 *-TS12 *
+TS13 4*
+TS14 *-TS29 *
+TD15 *

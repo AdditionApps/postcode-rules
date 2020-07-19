@@ -1,0 +1,30 @@
+CV9 3*
+CV13 *
+DE1 *-DE9 *
+DE10 *-DE12 *
+DE21 *-DE75 *
+DE99 *
+DN15 *-DN41 *
+LE*
+LN*
+NG*
+NN*
+PE6 8*-PE6 9*
+PE8 *-PE9 *
+PE10 *-PE12 *
+PE20 *-PE25 *
+S18 *
+S21 *
+S32 *-S33 *
+S40 *-S45 *
+S49 *
+S80 *-S81 *
+S94 *-S99 *
+SK13 *
+SK17 *
+SK22 *-SK23 *
+ST*
+SY1 *-SY9 *
+SY10 1*
+SY10 7*-SY10 9*
+SY11 *-SY14 *
